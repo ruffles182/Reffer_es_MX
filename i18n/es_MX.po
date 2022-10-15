@@ -54,11 +54,11 @@ msgid ""
 "                <b style=\"color:#3c763d;\">Error : </b> System has reported some technical issues while approving your request.<br/>\n"
 "                <b style=\"color:#b733ad;\">Cancel :</b> Request has been canceled due to incorrect referral credentials. <br/>"
 msgstr ""
-"<b style = ""color:#337ab7;"">aprobado:</b> La cantidad se ha acreditado con éxito según su solicitud. <br/>"
-"               <b style = ""color:#ec971f;"">pendiente:</b> La solicitud de crédito de cantidad está en proceso. <br/>"
-"               <b style = ""color: rojo;""> rechazado:</b> La solicitud de la comisión por referencia ha sido cancelada por Admin. <br/>"
-"               <b style = ""color:#3C763D;""> Error:</b> El sistema ha informado algunos problemas técnicos al aprobar su solicitud. <br/>"
-"               <b style = ""color:#B733AD;""> Cancelar:</b> La solicitud se ha cancelado debido a credenciales de referencia incorrectas. <br/>"
+"<b style = \"color:#337ab7;\">aprobado:</b> La cantidad se ha acreditado con éxito según su solicitud. <br/>"
+"               <b style = \"color:#ec971f;\">pendiente:</b> La solicitud de crédito de cantidad está en proceso. <br/>"
+"               <b style = \"color: rojo;\"> rechazado:</b> La solicitud de la comisión por referencia ha sido cancelada por Admin. <br/>"
+"               <b style = \"color:#3C763D;\"> Error:</b> El sistema ha informado algunos problemas técnicos al aprobar su solicitud. <br/>"
+"               <b style = \"color:#B733AD;\"> Cancelar:</b> La solicitud se ha cancelado debido a credenciales de referencia incorrectas. <br/>"
 
 
 #. module: refer_and_earn
